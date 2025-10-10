@@ -1,0 +1,56 @@
+一、授權條款說明
+
+本軟體及其相關文件（以下簡稱「本軟體」）為 嵐奕科技有限公司 V7 Idea Technology Ltd. 所擁有之智慧財產。
+除本授權條款明示者外，未經授權禁止以任何方式使用、複製、修改或散布本軟體。
+
+二、非商業使用授權
+
+本軟體允許個人、教育、研究等非商業目的免費使用、修改與散布。
+
+使用或散布時，必須保留本版權聲明與本授權條款全文，並在軟體或文件中明顯標示出處：
+
+「本軟體基於嵐奕科技有限公司 V7 Idea Technology Ltd. 所開發之 VMS AI交談機器人 (VMS AI Chat Robot)」
+
+三、商業使用限制
+
+任何形式之商業使用（包含但不限於銷售、租賃、收費授權、整合至商品或服務）皆須事先取得 嵐奕科技有限公司 V7 Idea Technology Ltd. 書面授權。
+
+商業授權洽詢請聯繫：
+📧 louis@v7idea.com.tw
+
+四、無擔保條款
+
+本軟體依「現狀」（AS IS）提供，不附帶任何明示或默示之保證，包括但不限於適售性、特定用途適用性或不侵權等。使用者須自行承擔使用風險。
+
+五、違反條款
+
+若使用者違反本授權條款，授權即自動終止，並應立即停止使用、散布或修改本軟體。
+
+1. License Overview
+
+This software and its related documentation (“the Software”) are the intellectual property of V7 Idea Technology Ltd. (嵐奕科技有限公司).
+Except as expressly permitted in this License, no part of the Software may be used, copied, modified, or distributed without authorization.
+
+2. Non-Commercial Use Permission
+
+The Software may be freely used, modified, and distributed for personal, educational, and research purposes only.
+
+All copies and derivative works must retain this copyright notice and license text and include clear attribution:
+
+“Based on the work of V7 Idea Technology Ltd. – VMS AI Chat Robot (VMS AI交談機器人)”
+
+3. Commercial Use Restriction
+
+Commercial use of this Software—including but not limited to selling, licensing, renting, or incorporating into commercial products or services—requires prior written authorization from V7 Idea Technology Ltd.
+
+For commercial licensing inquiries, please contact:
+📧 louis@v7idea.com.tw
+
+4. Disclaimer of Warranty
+
+The Software is provided “AS IS” without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+The user assumes all risks associated with the use of the Software.
+
+5. Termination
+
+Violation of this License automatically terminates all granted rights. Upon termination, the user must immediately cease all use, distribution, and modification of the Software.
