@@ -1,3 +1,5 @@
+fork on  2025/10/23
+
 # 🤖 VMS AI交談機器人 (VMS AI Chat Robot)
 
 An intelligent conversational AI system developed by **V7 Idea Technology Ltd. (嵐奕科技有限公司)**  
